@@ -1,4 +1,5 @@
 import React from 'react'
+import { bandMember } from './bandMembers'
 
 const band = () => {
   return (
