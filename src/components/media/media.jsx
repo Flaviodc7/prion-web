@@ -2,7 +2,10 @@ import React from 'react'
 
 const media = () => {
   return (
-    <div>media</div>
+    <section id="media">
+      <p>Aquí van videos y discos</p>
+
+    </section>
   )
 }
 
